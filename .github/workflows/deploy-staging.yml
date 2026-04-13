@@ -11,6 +11,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   DOCKER_IMAGE_NAME: sourav291990-azure-ttt
   AZURE_WEBAPP_NAME: sourav291990-ttt-app
+  
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
